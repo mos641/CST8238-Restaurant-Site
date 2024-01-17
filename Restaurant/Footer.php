@@ -1,0 +1,1 @@
+<p>&copy; <?php echo date("Y");?> CST8238. All Rights Reserved.</p>
